@@ -1,4 +1,0 @@
-{
-	"auth_server_address": "http://localhost:8881",
-	"websocket_server_address": "ws://localhost:8883"
-}
